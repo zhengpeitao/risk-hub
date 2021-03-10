@@ -15,6 +15,7 @@
 | 有赞     | [有赞风控规则引擎实践](https://tech.youzan.com/rules-engine/) |            |
 | 爱奇艺   | [爱奇艺业务安全风控体系的建设实践](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247483836&idx=1&sn=d46875c957289d8e035345992ad7053e) |            |
 | 阿里云   | [互联网广告黑产盛行，如何反作弊？](https://zhuanlan.zhihu.com/p/337543455) | 2020-12-17 |
+| 58       | [58智能风控与未知风险感知](https://mp.weixin.qq.com/s/S2L_kuT4iMZpOHxHB1jUhA) | 2021-02 |
 
 
 
